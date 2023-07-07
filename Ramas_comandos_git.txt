@@ -12,13 +12,14 @@ La rama predeterminada es la que llamamos main o en casos master, la cual contie
 el codigo base y confirmado del proyecto sobre el cual se este trabajando.
 
 Como enumeramos las ramas
-
+Con el comando "git branch" se nos muestran todas la ramas que tengamos en el momento.
 
 Como creamos una nueva rama 
 Para crear una nueva rama usamos el comando "git branch 'nombre de la rama'" y de esta forma
 se creara una rama derivada de la rama principal.
 
 Como creamos una nueva rama en el repositorio remoto
+La nueva rama se sube por medio del comando "git push -u origin 'nombre de rama'"
 
 Como eliminamos una rama
 Con el comando "git branch -d 'nombre de la rama'" se eliminara la rama con el nombre que
