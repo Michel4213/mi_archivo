@@ -1,0 +1,29 @@
+Que es una rama
+Es una especie de subespacio de trabajo del repositorio que deriva de una parte principal 
+"main o master"con la cual se puede hacer codigo y cambios que no afecten al codigo principal
+hasta ser unidos.
+
+Para que sirven las ramas
+Sirven para no afectar el codigo principal del repositorio al hacer cambios o añadir codigo
+hasta que estos sean confirmados y para dividir tambien de esta forma la creacion de un proyecto.
+
+Cual es la rama predeterminada
+La rama predeterminada es la que llamamos main o en casos master, la cual contiene todo 
+el codigo base y confirmado del proyecto sobre el cual se este trabajando.
+
+Como enumeramos las ramas
+
+
+Como creamos una nueva rama 
+Para crear una nueva rama usamos el comando "git branch 'nombre de la rama'" y de esta forma
+se creara una rama derivada de la rama principal.
+
+Como creamos una nueva rama en el repositorio remoto
+
+Como eliminamos una rama
+Con el comando "git branch -d 'nombre de la rama'" se eliminara la rama con el nombre que
+se haya escrito.
+
+Como le cambiamos el nombre a una rama
+Con el comando en git "git branch -m 'nombre de la rama'" se puede cambiar el nombre de las 
+diferentes ramas que tengamos.
